@@ -1,0 +1,6 @@
+# PHP双轨直销系统源码/pc+手机自适应
+
+购买说明<br>1、本站提供源码均为精品，大部分是商业运营版，有演示站，页面没有标注演示的，请联系客服查看演示。<br>2、骗子请绕道！不会搭建的请一起或购买安装服务。如果有疑问，买前请咨询。<br>3、不会使用的新手或者购买后就要退的或者喜欢差评的请不要购买。<br>4、如果对源码需要技术服务或者进行个性化定制/二次开发等请联系客服，是根据需求另外付费。<br>环境需求 apache+example.com +example.com，win2008完美架设<br>制度参考：（制度不等于功能，制度仅供参考，功能以演示站为准，请知悉）<br>1、双轨php会员系统，支持四个会员级别，可根据情况设置后台关闭开启会员级别。<br>2、报单费（激活会员需要多少钱）<br>3、直推奖推荐一个人得多少钱<br>4、层碰奖每层进来的左右各取第 #一个人，计算层碰1:1得多少<br>5、量碰奖每层除了参与层碰的人以外的人的业绩都算量碰，有设置封顶。<br>6、见点奖不管下线发展多少人，增加一个人就获得一次见点奖，只发一次<br>7、服务站补贴当有会员成为服务站（报单中心）的时候，每激活一个会员就会获得这份补贴<br>8、重复消费<br>10、分润工资这个就相当于每个月发固定分红，这个是按级别来的，在财务里有这个<br>11、有内部商城，可提供完整的购买和发货流程（不支持在线支付和快递发货的部分，就是一个样子，但是有流程）<br>演示网站 请参考价格下面有<br>账号a001密码1二级密码1<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/v4QCg" style="color: red;">https://mega-file.org/v4QCg</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
